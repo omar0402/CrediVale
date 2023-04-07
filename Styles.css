@@ -1,0 +1,29 @@
+/*-- INIT Selectors --*/
+*{
+    margin: 0;
+	padding: 0;
+}
+
+/* -- INIT Tags -- */
+html{
+    height: 100%;
+}
+
+body{
+    /*background-color: #000000;
+    background-image: linear-gradient(147deg, #000000, #024470 74%);*/
+}
+
+/* -- INIT Classes -- */
+
+.footer {
+    position: relative;
+    margin-top: -150px; /* negative value of footer height */
+    height: 150px;
+    clear:both;
+    padding-top:20px;
+  } 
+
+.header h1{
+    font-size: 20px;
+}
